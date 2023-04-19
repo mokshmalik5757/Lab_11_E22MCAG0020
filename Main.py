@@ -1,3 +1,6 @@
+# Name - Moksh Malik
+# Enrollment Number - E22MCAG0020
+
 from MallardDuck import MallardDuck
 from RubberDuck import RubberDuck
 from RedHeadDuck import RedHeadDuck
